@@ -6,9 +6,6 @@ public class Hello {
 	system.out.println("This is GIT  World");
 
 	system.out.println("This is Python World");
-
-	system.out.println("This is Integration World");
-
  }
 
 }
